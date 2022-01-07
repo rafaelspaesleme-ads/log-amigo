@@ -19,7 +19,7 @@ import static br.com.logamigo.logamigo.utils.EmojisUtils.ofIn;
 import static br.com.logamigo.logamigo.utils.EmojisUtils.ofOk;
 import static br.com.logamigo.logamigo.utils.EmojisUtils.ofWarn;
 import static br.com.logamigo.logamigo.utils.StringUtils.*;
-import static java.lang.System.out;
+import static java.lang.System.*;
 
 public class ConsoleLogUtils {
 
