@@ -34,12 +34,4 @@
             </repositories>
         </profile>
     </profiles>
-
-  <servers>
-    <server>
-      <id>github</id>
-      <username>rafaelspaesleme-ads</username>
-      <password>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</password>
-    </server>
-  </servers>
 </settings>
